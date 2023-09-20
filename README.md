@@ -1,0 +1,1 @@
+This the landing-page project as part of The Odin Project. The purpose of this project is to practice using html and CSS to reproduce a webpage page based on a picture. 
